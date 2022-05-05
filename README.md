@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sayan Bandopadhyay</h1>
 <h3 align="center">An aspiring data scientist with a passion for data integrity, visualisation, statistics and predictive modelling.</h3>
 
+- 🔭 I’m currently working on **Machine Learning & Deep Learning projects**
+
+- 💬 Ask me about **Economics,Technology & Data**
+
 - 📫 How to reach me **sayan.banerjee10035@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/sayan bandopadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan bandopadhyay" height="30" width="40" /></a>
 <a href="https://instagram.com/sayan_1650" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayan_1650" height="30" width="40" /></a>
 </p>
 
